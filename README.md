@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/Zuna_03" target="blank"><img src="https://img.shields.io/twitter/follow/Zuna_03?logo=twitter&style=for-the-badge" alt="Zuna_03" /></a> </p>
 
-- 🌱 I’m currently learning **Learning about APIs and Python.**
 
 - 💬 Ask me about **MERN, DBMS, OOPs, DSA.**
 
